@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-qixi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bepartofyou/npm-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bepartofyou/npm-test/issues"
+  },
+  "homepage": "https://github.com/Bepartofyou/npm-test#readme"
+}
